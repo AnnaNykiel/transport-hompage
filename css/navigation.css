@@ -1,0 +1,28 @@
+.navigation {
+    color: rgb(37, 37, 42);
+    background-color: #eee;
+    text-align: center;
+    border: 2px solid rgb(49, 89, 154);
+    border-radius: 10px;
+}
+
+.navigation__list {
+    display: inline-block;
+    text-align: center;
+    margin: 5px 10px 10px;
+}
+
+.navigation__link {
+    font-size: 17px;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(37, 37, 42);
+    border-radius: 10px;
+    background-color: #eee;
+    box-shadow: 1px 2px 2px rgb(1, 6, 61);
+    font-family: bold;
+}
+
+.navigation__link2 {
+    text-decoration: none;
+}

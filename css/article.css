@@ -1,0 +1,20 @@
+.article {
+    background-color: #eee;
+    text-align: center;
+    border: 2px solid rgb(49, 89, 154);
+    color: rgb(37, 37, 42);
+    padding: 10px;
+    line-height: 2;
+    border-radius: 10px;
+    box-shadow: rgb(37, 37, 42);
+}
+
+.article__container {
+    overflow-x: auto;
+}
+
+.article__list {
+    display: inline-block;
+    text-align: center;
+    margin: 5px 10px 10px;
+}
